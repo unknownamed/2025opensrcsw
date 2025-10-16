@@ -1,0 +1,5 @@
+# 폴더 src안의 note.txt를 제외하고 push할것임
+src/note.txt
+
+# 폴더 tests안의 test_note.txt를 제외하고 push할것임
+tests/test_note.txt
