@@ -1,3 +1,7 @@
+<a id="project-overview-added"></a>
+
+[프로젝트 안내](#project-overview-added) · [기존 README 전체 내용](#original-readme-preserved)
+
 # 2025 Open Source Software Practice
 
 **오픈소스 소프트웨어 수업에서 표준 폴더 구조와 Git 작업을 연습한 저장소입니다.**
@@ -32,3 +36,15 @@ git clone https://github.com/unknownamed/2025opensrcsw.git
 cd 2025opensrcsw
 git log --oneline --graph --all
 ```
+
+---
+
+<a id="original-readme-preserved"></a>
+
+## 기존 README 전체 내용
+
+# 오픈소스 소프트웨어 강의 실습
+
+- 날짜 : 2025년 10월 16일
+- 강의 내용 : 표준 폴더 구조
+- 실습 내용 : markdown, 정규표현, 표준폴더
